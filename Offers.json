@@ -10,22 +10,16 @@
 			}
         ],
         "offer": [
+			
 			{
 			   "sno":"1",
-			   "url":"https://raw.githubusercontent.com/armyandro/Offers/gh-pages/cpapp.jpeg",
-			   "name":"Dhamaaka",
-			   "description": "SRMites finally get a chance to sit back home and order their desired crackers which will be delivered at their doorsteps without any extra delivery charge and rates cheaper than ever.\nHappy Diwali",
-			   "link": "https://www.dhamaaka.in/"
+			   "url":"https://raw.githubusercontent.com/armyandro/Offers/gh-pages/cpnew.jpeg",
+			   "name":"Crispy Page",
+			   "description": "",
+			   "link": "https://play.google.com/store/apps/details?id=c.crispypage_"
 			},
 			{
 			   "sno":"2",
-			   "url":"https://raw.githubusercontent.com/armyandro/Offers/gh-pages/crispy.jpeg",
-			   "name":"Crispy Page",
-			   "description": "",
-			   "link": "http://crispypage.com/"
-			},
-			{
-			   "sno":"3",
 			   "url":"http://poolio.in/srmimages/srmezyad.jpg",
 			   "name":"Grow with us",
 			   "description": "Take your event, startup, cafe, restraunt, company etc and publicize infront of 4000+ students. \nEmail us for more details @armyandro@gmail.com",
