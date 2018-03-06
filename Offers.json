@@ -2,7 +2,7 @@
     "data": {
 		"conditions": [
             {  
-			   "id":0,
+			   "id":1,
 			   "url":"http://188.166.86.83/",
 			   "version":1,
 			   "heading":"Sorry for the inconvenience",
@@ -13,13 +13,6 @@
 			
 			{
 			   "sno":"1",
-			   "url":"https://raw.githubusercontent.com/armyandro/Offers/gh-pages/cpnew.jpeg",
-			   "name":"Crispy Page",
-			   "description": "",
-			   "link": "https://play.google.com/store/apps/details?id=c.crispypage"
-			},
-			{
-			   "sno":"2",
 			   "url":"http://poolio.in/srmimages/srmezyad.jpg",
 			   "name":"Grow with us",
 			   "description": "Take your event, startup, cafe, restraunt, company etc and publicize infront of 4000+ students. \nEmail us for more details @armyandro@gmail.com",
